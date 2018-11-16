@@ -1,5 +1,5 @@
 # Applications of GAN
-- human and anime face generation using GANs in Tensorflow
+- Human and Anime Face Generation using GANs in Tensorflow
 - Applying GAN's for MNIST and CIFAR datasets
 - Using GAN's for semi-supervised learning with CIFAR dataset
 
